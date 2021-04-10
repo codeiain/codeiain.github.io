@@ -35,11 +35,17 @@ career-profile:
     title: Career Profile
     summary: |
         I currently hold the position of Senior Developer within Computershare and work on multiple projects within Global development, and actively involved in the Dev Practice, and mentoring other developers.
+        
         I started my software career as a games tester for Rockstar North on GTA4, this gave me a good understanding of testing large scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline based company called Cooper Software. Due to the fact I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge and as Cooper Software is a .NET company I was assigned this project.
+        
         This kindled a love for developing software, so I learned VB.Net the preferred choice of programming language for Cooper Software. After working as a developer for Cooper Software for over 3 years on multiple projects, including IFS integrations and bespoke windows and web based applications I decided it was time for a developmental move.
+        
         In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. This was a great introduction to how digital agency work and due to the nature of Open Platform, I was quickly pulled on to other projects including creating a fully bespoke game for Maersk Oil, and multiple projects from Acer at the 2012 London Olympics.
+        
         Open Platform merged with Swarm Online an award winning development company based in Glasgow. My time with Swarm Online has help increase my knowledge in front end frameworks including, AngularJS, React Native also server side technologies.
+        
         Working with GBG plc has allowed me to expand into other languages, and technology e.g Angular front end application and C# based web apis, also due to the nature of GBG I was involved in developing and designing micro services to replace our current applications.
+        
         Computershare has allowed me to expand my abilities in mentoring other developers which has help refine my people management skills.
 experiences:
     - role: Senior ASP.Net Developer
