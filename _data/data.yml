@@ -94,16 +94,16 @@ experiences:
       details: |
         Award-Winning Video Game Developer Based In Edinburgh, Scotland.
         Part of the Rockstar Games family since 1999, Rockstar North is home to the ground-breaking Grand Theft Auto Series. Ambition and hard work have made Rockstar North a preeminent games developer worldwide, and at the heart of it all is a team of motivated individuals who strive to produce amazing, industry-leading games.
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
 #      - title: DevStudio
 #        link: "#"
