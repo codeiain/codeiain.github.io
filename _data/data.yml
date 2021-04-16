@@ -97,9 +97,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below is some of my none work related projects.
     assignments:
       - title: Text Adventure Platform
         link: "https://github.com/codeiain/TextAdventure"
@@ -121,17 +119,16 @@ projects:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
- #   title: Publications
- #   intro: |
- #     You can list your publications in this section. Lorem ipsum dolor sit
- #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
- #     bibendum fringilla a eu lectus.
- #   papers:
- #     - title: The Art of Computer Programming
- #       link: "#"
- #       authors: Donald E. Knuth
- #       conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: Angular Crud done correctly (Very much a WIP)
+        link: "https://codeiain.gitbook.io/angular-crud/"
+        authors: Iain Brown
 
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
  #       link: "#"
