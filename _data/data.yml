@@ -50,12 +50,14 @@ career-profile:
 experiences:
     - role: Senior ASP.Net Developer
       company: Computershare
+      time: Novemeber 2019 - Current
       details: |
         Senior ASP.Net Developer within Computershare, help in the relocate and modernization of application portfolio.
         My role within Computershare was to help transfer application from Microsoft Team Foundation Server to Azure Dev Ops. As well as implanting security fixes within existing applications.
         As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Global Development.
     - role: Senior Software Developer
       company: GBG PLC
+      time: October 2016 - November 2019
       details: |
         Senior ASP.Net Developer within GBG plc and work on multiple projects for some big-name clients including Ikea and Thomas Cook, GovUK.
         GBG plc are global leaders in identity data intelligence.
@@ -66,11 +68,13 @@ experiences:
           - Mentoring other developers in .Net and JavaScript.
     - role: Senior Software Developer
       company: Swarm Online
+      time: December 2015 - October 2016
       details: |
         Swarm Online are world leaders and recognised industry experts in mobile and web technologies. Based in the heart of Glasgow’s Digital Media Quarter, they use cutting edge technology to build solutions that disrupt markets and deliver results. They operate and consult for a diverse range of industries including Utilities, Oil & Gas, Health & Wellness and many others. Their solutions have improved user engagement, increased revenue and enabled thousands of workers to carry out their jobs effectively across our growing client list.
         Since moving to Swarm Online in the start of 2016 I have worked on multiple projects for large customers including Clydesdale Bank, E.on, Shell.
     - role: Senior Software Developer
       company: Open Platform
+      time: February 2012 - December 2015
       details: |
         Open Platform offers a focused range of digital services, from design and development to strategy and implementation.
         Since Starting with Open Platform in 2012, I have worked my way up from Software Developer to Senior Web Application Developer, in charge of the .Net Team.
@@ -79,12 +83,14 @@ experiences:
         My favourite project with Open Platform was a bespoke Game using the XNA framework for the game system and custom hardware that I designed to control the game using arduino development boards, this game is proving to be very popular at events and exhibitions for Maersk and is currently being run all over the world.
     - role: Developer
       company: Cooper Software
+      time: September 2008 - February 2012
       details: |
         Cooper Software is a system integration specialist, with expertise in integration, customisation and optimisation and larger scale Enterprise Resource Planning (ERP) Systems.
         I worked as VB.Net developer at Cooper Software for 3 years, specialising in Bespoke Window/Web Form and Custom Modifications for IFS.
         When not working on internal and external client projects, my main role was to develop tools to increase the company’s performance. I worked on an application called the Rapid Solution Delivery System a tool designed to automatically generate standardised code. This system has proved invaluable to the company in that it standardises code base through automatically generating base code used in projects and as such reduces the time required to develop.
     - role: QA Tester
       company: Rock Star North
+      time: January 2008 - April 2008 
       details: |
         Award-Winning Video Game Developer Based In Edinburgh, Scotland.
         Part of the Rockstar Games family since 1999, Rockstar North is home to the ground-breaking Grand Theft Auto Series. Ambition and hard work have made Rockstar North a preeminent games developer worldwide, and at the heart of it all is a team of motivated individuals who strive to produce amazing, industry-leading games.
@@ -143,7 +149,7 @@ skills:
     toolset:
       - name: C#
         level: 98%
-
+      
       - name: Javascript & jQuery
         level: 98%
 
@@ -152,6 +158,30 @@ skills:
 
       - name: Node.Js
         level: 80%
+      
+      - name: MVC
+        level: 90%
+        
+      - name: ASP.Net
+        level: 90%
+        
+      - name: MS SQL
+        level: 75%
+        
+      - name: Angular
+        level: 95%
+        
+      - name: .Net Core
+        level: 90%
+    tools:
+      - name: Visual Studio
+      - name: TeamCity
+      - name: SonarQube
+      - name: Jira/BitBucket
+      - name: Git
+      - name: Svn
+      - name: Office 365
+      - name: Azure Dev Ops
 
 
 
