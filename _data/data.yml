@@ -94,22 +94,22 @@ experiences:
       details: |
         Award-Winning Video Game Developer Based In Edinburgh, Scotland.
         Part of the Rockstar Games family since 1999, Rockstar North is home to the ground-breaking Grand Theft Auto Series. Ambition and hard work have made Rockstar North a preeminent games developer worldwide, and at the heart of it all is a team of motivated individuals who strive to produce amazing, industry-leading games.
-projects:
-    title: Projects
-    intro: >
-      Below is some of my none work related projects.
-    assignments:
-      - title: Text Adventure Platform
-        link: "https://github.com/codeiain/TextAdventure"
-        tagline: "Text Adventure Platform is an experiment in gRPC, The Platform is designed to allow people to play old school text adventure games, with their friends. This is still a work in progress."
+# projects:
+#     title: Projects
+#     intro: >
+#       Below is some of my none work related projects.
+#     assignments:
+#       - title: Text Adventure Platform
+#         link: "https://github.com/codeiain/TextAdventure"
+#         tagline: "Text Adventure Platform is an experiment in gRPC, The Platform is designed to allow people to play old school text adventure games, with their friends. This is still a work in progress."
 
-      - title: CIStringBuilder
-        link: "https://github.com/codeiain/CIStringBuilder"
-        tagline: "Node.js string builder based on c#"
+#       - title: CIStringBuilder
+#         link: "https://github.com/codeiain/CIStringBuilder"
+#         tagline: "Node.js string builder based on c#"
 
-      - title: piAPI
-        link: "https://github.com/codeiain/piAPI"
-        tagline: "Basic Node.js web api to get cpu usage, memory and temp from my RaspberryPI"
+#       - title: piAPI
+#         link: "https://github.com/codeiain/piAPI"
+#         tagline: "Basic Node.js web api to get cpu usage, memory and temp from my RaspberryPI"
 #
 #      - title: Atom
 #        link: "#"
@@ -119,14 +119,14 @@ projects:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
+# publications:
+#     title: Publications
+#     intro: |
 
-    papers:
-      - title: Angular Crud done correctly (Very much a WIP)
-        link: "https://codeiain.gitbook.io/angular-crud/"
-        authors: Iain Brown
+#     papers:
+#       - title: Angular Crud done correctly (Very much a WIP)
+#         link: "https://codeiain.gitbook.io/angular-crud/"
+#         authors: Iain Brown
 
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
  #       link: "#"
