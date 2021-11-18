@@ -23,7 +23,7 @@ sidebar:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: codeiain
+    codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -48,9 +48,15 @@ career-profile:
         
         Computershare has allowed me to expand my abilities in mentoring other developers which has help refine my people management skills.
 experiences:
+    - role: Senior Developer
+      company: Origo
+      time: May 2021 - Current
+      details: |
+        SeniorDeveloper within Origo, help in the relocate and modernization of application portfolio.
+        As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with inDevelopment.
     - role: Senior ASP.Net Developer
       company: Computershare
-      time: Novemeber 2019 - Current
+      time: Novemeber 2019 - May 2021
       details: |
         Senior ASP.Net Developer within Computershare, help in the relocate and modernization of application portfolio.
         My role within Computershare was to help transfer application from Microsoft Team Foundation Server to Azure Dev Ops. As well as implanting security fixes within existing applications.
