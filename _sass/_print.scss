@@ -27,7 +27,10 @@
     .remove-container.container-block {
        display: none;
     }
-
+ 
+    .section-title {
+       page-break-after: always;
+      }
     footer {
        display: none;
     }
