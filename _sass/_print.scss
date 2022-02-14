@@ -20,7 +20,8 @@
         position: static;
         float: right;
         width: 40%;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
+        border:1px solid #000;
     }
 
     .remove-container.container-block {
