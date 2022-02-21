@@ -161,6 +161,9 @@ certificates:
     - title: "A Cloud Guru - Introduction to Jupyter Notebooks"
       image: "assets/certificates/certificate-3.png"
 
+    - title: "A Cloud Guru - Ansible Quick Start"
+      image: "assets/certificates/certificate-5.png"
+
 skills:
   title: Skills &amp; Proficiency
 
