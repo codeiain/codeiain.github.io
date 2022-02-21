@@ -127,7 +127,7 @@ experiences:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # publications:
-#     title: Publications
+#     title: Certificates
 #     intro: |
 
 #     papers:
@@ -136,14 +136,26 @@ experiences:
 #         authors: Iain Brown
 
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
- #       link: "#"
-  #      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-   #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-    #  - title: A syntax directed compiler for Algol 60
-     #   link: "#"
-      #  authors: Edgar T. Irons
-      #  conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
+
+certificates:
+  title: Certificates
+  intro: |
+    Below is some of my certificates.
+
+  certs:
+    - title: "eXtreme Automation"
+      image: "assets/certificates/certificate-1.jpg"
+
+    - title: "A Cloud Guru - DevOps Essentials"
+      image: "assets/certificates/certificate-2.png"
 
 skills:
     title: Skills &amp; Proficiency
