@@ -155,6 +155,12 @@ certificates:
     - title: "A Cloud Guru - DevOps Essentials"
       image: "assets/certificates/certificate-2.png"
 
+    - title: "A Cloud Guru - Introduction to Machine Learning"
+      image: "assets/certificates/certificate-4.png"
+    
+    - title: "A Cloud Guru - Introduction to Jupyter Notebooks"
+      image: "assets/certificates/certificate-3.png"
+
 skills:
   title: Skills &amp; Proficiency
 
