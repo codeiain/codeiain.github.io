@@ -3,104 +3,103 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Iain Brown
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Iain Brown
+  tagline: Full Stack Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: iain.b@outlook.com
-    phone: 
-    website: codeiain.github.io #do not add http://
-    linkedin: iain-brown-6118a416
-    xing: 
-    github: codeiain
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: 
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    instagram: codeiain
-    languages:
-      - idiom: English
-        level: Native
-
+  # Sidebar links
+  email: iain.b@outlook.com
+  phone:
+  website: codeiain.github.io #do not add http://
+  linkedin: iain-brown-6118a416
+  xing:
+  github: codeiain
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  instagram: codeiain
+  languages:
+    - idiom: English
+      level: Native
 
 career-profile:
-    title: Career Profile
-    summary: |
-      I currently hold the position of Senior Developer within Origo, my key responsibility include: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
+  title: Career Profile
+  summary: |
+    I currently hold the position of Senior Developer within Origo, my key responsibility include: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
 
-      I started my software career as a games tester for Rockstar North on GTA4, this gave me a good understanding of testing large scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline based company called Cooper Software. Due to the fact I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge and as Cooper Software is a .NET company I was assigned this project.
-      
-      This kindled a love for developing software, so I learned VB.Net the preferred choice of programming language for Cooper Software. After working as a developer for Cooper Software for over 3 years on multiple projects, including IFS integrations and bespoke windows and web based applications I decided it was time for a developmental move.
-      
-      In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. This was a great introduction to how digital agency work and due to the nature of Open Platform, I was quickly pulled on to other projects including creating a fully bespoke game for Maersk Oil, and multiple projects from Acer at the 2012 London Olympics.
-      
-      Open Platform merged with Swarm Online an award winning development company based in Glasgow. My time with Swarm Online has help increase my knowledge in front end frameworks including, AngularJS, React Native also server side technologies.
-      
-      Working with GBG plc has allowed me to expand into other languages, and technology e.g Angular front end application and C# based web apis, also due to the nature of GBG I was involved in developing and designing micro services to replace our current applications.
-      
-      Computershare has allowed me to expand my abilities in mentoring other developers which has help refine my people management skills, as well as working on multiple projects within Global development, and actively involved in the Dev Practice helping to design the future landscape of the Computershare tech landscape.
+    I started my software career as a games tester for Rockstar North on GTA4, this gave me a good understanding of testing large scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline based company called Cooper Software. Due to the fact I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge and as Cooper Software is a .NET company I was assigned this project.
+
+    This kindled a love for developing software, so I learned VB.Net the preferred choice of programming language for Cooper Software. After working as a developer for Cooper Software for over 3 years on multiple projects, including IFS integrations and bespoke windows and web based applications I decided it was time for a developmental move.
+
+    In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. This was a great introduction to how digital agency work and due to the nature of Open Platform, I was quickly pulled on to other projects including creating a fully bespoke game for Maersk Oil, and multiple projects from Acer at the 2012 London Olympics.
+
+    Open Platform merged with Swarm Online an award winning development company based in Glasgow. My time with Swarm Online has help increase my knowledge in front end frameworks including, AngularJS, React Native also server side technologies.
+
+    Working with GBG plc has allowed me to expand into other languages, and technology e.g Angular front end application and C# based web apis, also due to the nature of GBG I was involved in developing and designing micro services to replace our current applications.
+
+    Computershare has allowed me to expand my abilities in mentoring other developers which has help refine my people management skills, as well as working on multiple projects within Global development, and actively involved in the Dev Practice helping to design the future landscape of the Computershare tech landscape.
 
 experiences:
-    - role: Senior Developer
-      company: Origo
-      time: May 2021 - Current
-      details: |
-        Senior Developer within Origo, help in the relocate and modernization of application portfolio.
-        As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Development teams.
-    - role: Senior ASP.Net Developer
-      company: Computershare
-      time: Novemeber 2019 - May 2021
-      details: |
-        Senior ASP.Net Developer within Computershare, help in the relocate and modernization of application portfolio.
-        My role within Computershare was to help transfer application from Microsoft Team Foundation Server to Azure Dev Ops. As well as implanting security fixes within existing applications.
-        As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Global Development.
-    - role: Senior Software Developer
-      company: GBG PLC
-      time: October 2016 - November 2019
-      details: |
-        Senior ASP.Net Developer within GBG plc and work on multiple projects for some big-name clients including Ikea and Thomas Cook, GovUK.
-        GBG plc are global leaders in identity data intelligence.
-        Since moving to GBG I have exposure to working in large global teams, and processes and procedures that help increase the development process.
-        My role while mainly includes development, it also includes:
-          - Managing the team of developers for my current project.
-          - Constantly improving of the company’s continuous integration systems.
-          - Mentoring other developers in .Net and JavaScript.
-    - role: Senior Software Developer
-      company: Swarm Online
-      time: December 2015 - October 2016
-      details: |
-        Swarm Online are world leaders and recognised industry experts in mobile and web technologies. Based in the heart of Glasgow’s Digital Media Quarter, they use cutting edge technology to build solutions that disrupt markets and deliver results. They operate and consult for a diverse range of industries including Utilities, Oil & Gas, Health & Wellness and many others. Their solutions have improved user engagement, increased revenue and enabled thousands of workers to carry out their jobs effectively across our growing client list.
-        Since moving to Swarm Online in the start of 2016 I have worked on multiple projects for large customers including Clydesdale Bank, E.on, Shell.
-    - role: Senior Software Developer
-      company: Open Platform
-      time: February 2012 - December 2015
-      details: |
-        Open Platform offers a focused range of digital services, from design and development to strategy and implementation.
-        Since Starting with Open Platform in 2012, I have worked my way up from Software Developer to Senior Web Application Developer, in charge of the .Net Team.
-        During my time with Open Platform I have been a Key member on a number of different types of projects including an event management tool for Shell Oil and Maersk, stock ordering systems and games.
-        I have also been actively involved in helping define the company’s procedures and standardising the company’s development processes.
-        My favourite project with Open Platform was a bespoke Game using the XNA framework for the game system and custom hardware that I designed to control the game using arduino development boards, this game is proving to be very popular at events and exhibitions for Maersk and is currently being run all over the world.
-    - role: Developer
-      company: Cooper Software
-      time: September 2008 - February 2012
-      details: |
-        Cooper Software is a system integration specialist, with expertise in integration, customisation and optimisation and larger scale Enterprise Resource Planning (ERP) Systems.
-        I worked as VB.Net developer at Cooper Software for 3 years, specialising in Bespoke Window/Web Form and Custom Modifications for IFS.
-        When not working on internal and external client projects, my main role was to develop tools to increase the company’s performance. I worked on an application called the Rapid Solution Delivery System a tool designed to automatically generate standardised code. This system has proved invaluable to the company in that it standardises code base through automatically generating base code used in projects and as such reduces the time required to develop.
-    - role: QA Tester
-      company: Rock Star North
-      time: January 2008 - April 2008 
-      details: |
-        Award-Winning Video Game Developer Based In Edinburgh, Scotland.
-        Part of the Rockstar Games family since 1999, Rockstar North is home to the ground-breaking Grand Theft Auto Series. Ambition and hard work have made Rockstar North a preeminent games developer worldwide, and at the heart of it all is a team of motivated individuals who strive to produce amazing, industry-leading games.
+  - role: Senior Developer
+    company: Origo
+    time: May 2021 - Current
+    details: |
+      Senior Developer within Origo, help in the relocate and modernization of application portfolio.
+      As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Development teams.
+  - role: Senior ASP.Net Developer
+    company: Computershare
+    time: Novemeber 2019 - May 2021
+    details: |
+      Senior ASP.Net Developer within Computershare, help in the relocate and modernization of application portfolio.
+      My role within Computershare was to help transfer application from Microsoft Team Foundation Server to Azure Dev Ops. As well as implanting security fixes within existing applications.
+      As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Global Development.
+  - role: Senior Software Developer
+    company: GBG PLC
+    time: October 2016 - November 2019
+    details: |
+      Senior ASP.Net Developer within GBG plc and work on multiple projects for some big-name clients including Ikea and Thomas Cook, GovUK.
+      GBG plc are global leaders in identity data intelligence.
+      Since moving to GBG I have exposure to working in large global teams, and processes and procedures that help increase the development process.
+      My role while mainly includes development, it also includes:
+        - Managing the team of developers for my current project.
+        - Constantly improving of the company’s continuous integration systems.
+        - Mentoring other developers in .Net and JavaScript.
+  - role: Senior Software Developer
+    company: Swarm Online
+    time: December 2015 - October 2016
+    details: |
+      Swarm Online are world leaders and recognised industry experts in mobile and web technologies. Based in the heart of Glasgow’s Digital Media Quarter, they use cutting edge technology to build solutions that disrupt markets and deliver results. They operate and consult for a diverse range of industries including Utilities, Oil & Gas, Health & Wellness and many others. Their solutions have improved user engagement, increased revenue and enabled thousands of workers to carry out their jobs effectively across our growing client list.
+      Since moving to Swarm Online in the start of 2016 I have worked on multiple projects for large customers including Clydesdale Bank, E.on, Shell.
+  - role: Senior Software Developer
+    company: Open Platform
+    time: February 2012 - December 2015
+    details: |
+      Open Platform offers a focused range of digital services, from design and development to strategy and implementation.
+      Since Starting with Open Platform in 2012, I have worked my way up from Software Developer to Senior Web Application Developer, in charge of the .Net Team.
+      During my time with Open Platform I have been a Key member on a number of different types of projects including an event management tool for Shell Oil and Maersk, stock ordering systems and games.
+      I have also been actively involved in helping define the company’s procedures and standardising the company’s development processes.
+      My favourite project with Open Platform was a bespoke Game using the XNA framework for the game system and custom hardware that I designed to control the game using arduino development boards, this game is proving to be very popular at events and exhibitions for Maersk and is currently being run all over the world.
+  - role: Developer
+    company: Cooper Software
+    time: September 2008 - February 2012
+    details: |
+      Cooper Software is a system integration specialist, with expertise in integration, customisation and optimisation and larger scale Enterprise Resource Planning (ERP) Systems.
+      I worked as VB.Net developer at Cooper Software for 3 years, specialising in Bespoke Window/Web Form and Custom Modifications for IFS.
+      When not working on internal and external client projects, my main role was to develop tools to increase the company’s performance. I worked on an application called the Rapid Solution Delivery System a tool designed to automatically generate standardised code. This system has proved invaluable to the company in that it standardises code base through automatically generating base code used in projects and as such reduces the time required to develop.
+  - role: QA Tester
+    company: Rock Star North
+    time: January 2008 - April 2008
+    details: |
+      Award-Winning Video Game Developer Based In Edinburgh, Scotland.
+      Part of the Rockstar Games family since 1999, Rockstar North is home to the ground-breaking Grand Theft Auto Series. Ambition and hard work have made Rockstar North a preeminent games developer worldwide, and at the heart of it all is a team of motivated individuals who strive to produce amazing, industry-leading games.
 # projects:
 #     title: Projects
 #     intro: >
@@ -149,7 +148,6 @@ certificates:
   title: Certificates
   intro: |
     Below is some of my certificates.
-
   certs:
     - title: "eXtreme Automation"
       image: "assets/certificates/certificate-1.jpg"
@@ -158,43 +156,43 @@ certificates:
       image: "assets/certificates/certificate-2.png"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: C#
-        level: 98%
-      
-      - name: Javascript & jQuery
-        level: 98%
+  toolset:
+    - name: C#
+      level: 98%
 
-      - name: Angular
-        level: 98%
+    - name: Javascript & jQuery
+      level: 98%
 
-      - name: Node.Js
-        level: 80%
-      
-      - name: MVC
-        level: 90%
-        
-      - name: ASP.Net
-        level: 90%
-        
-      - name: MS SQL
-        level: 75%
-        
-      - name: Angular
-        level: 95%
-        
-      - name: .Net Core
-        level: 90%
-    tools:
-      - name: Visual Studio
-      - name: TeamCity
-      - name: SonarQube
-      - name: Jira/BitBucket
-      - name: Git
-      - name: Svn
-      - name: Office 365
-      - name: Azure Dev Ops
-      - name: Docker
-      - name: Ansible
+    - name: Angular
+      level: 98%
+
+    - name: Node.Js
+      level: 80%
+
+    - name: MVC
+      level: 90%
+
+    - name: ASP.Net
+      level: 90%
+
+    - name: MS SQL
+      level: 75%
+
+    - name: Angular
+      level: 95%
+
+    - name: .Net Core
+      level: 90%
+  tools:
+    - name: Visual Studio
+    - name: TeamCity
+    - name: SonarQube
+    - name: Jira/BitBucket
+    - name: Git
+    - name: Svn
+    - name: Office 365
+    - name: Azure Dev Ops
+    - name: Docker
+    - name: Ansible
