@@ -33,26 +33,27 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I currently hold the position of Senior Developer within Origo, my key responsibility include: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
+    I currently hold the position of Technical Lead / Solution Architect within Microlise, working within Team Initialised within the HUMs IPT. Since I started, I help reform Team Null into Team Initialised, as well as guided the development of the new Driver Distraction/Safe Camera System as well as ClearVision and DPM. As well as working with the team I have also been active within the TLSA community, and multiple communities of practices.
+    
+    I started my software career as a game’s tester for Rockstar North on GTA4, this gave me a good understanding of testing large-scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline-based company called Cooper Software. Due to the fact I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge, and as Cooper Software is a .NET company, I was assigned this project.
 
-    I started my software career as a games tester for Rockstar North on GTA4, this gave me a good understanding of testing large scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline based company called Cooper Software. Due to the fact I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge and as Cooper Software is a .NET company I was assigned this project.
-
-    This kindled a love for developing software, so I learned VB.Net the preferred choice of programming language for Cooper Software. After working as a developer for Cooper Software for over 3 years on multiple projects, including IFS integrations and bespoke windows and web based applications I decided it was time for a developmental move.
+    This kindled a love for developing software, so I learned VB.Net the preferred choice of programming language for Cooper Software. After working as a developer for Cooper Software for over 3 years on multiple projects, including IFS integrations and bespoke windows and web-based applications, I decided it was time for a developmental move.
 
     In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. This was a great introduction to how digital agency work and due to the nature of Open Platform, I was quickly pulled on to other projects including creating a fully bespoke game for Maersk Oil, and multiple projects from Acer at the 2012 London Olympics.
 
-    Open Platform merged with Swarm Online an award winning development company based in Glasgow. My time with Swarm Online has help increase my knowledge in front end frameworks including, AngularJS, React Native also server side technologies.
+    Open Platform merged with Swarm Online an award-winning development company based in Glasgow. My time with Swarm Online has helped increase my knowledge of front-end frameworks including, AngularJS, React Native also server-side technologies.
 
-    Working with GBG plc has allowed me to expand into other languages, and technology e.g Angular front end application and C# based web apis, also due to the nature of GBG I was involved in developing and designing micro services to replace our current applications.
+    Working with GBG plc has allowed me to expand into other languages, and technology e.g Angular front-end applications and C# based web APIs, also due to the nature of GBG I was involved in developing and designing microservices to replace our current applications.
 
-    Computershare has allowed me to expand my abilities in mentoring other developers which has help refine my people management skills, as well as working on multiple projects within Global development, and actively involved in the Dev Practice helping to design the future landscape of the Computershare tech landscape.
-
+    Computershare has allowed me to expand my abilities in mentoring other developers which have helped refine my people management skills, as well as working on multiple projects within Global development, and being actively involved in the Dev Practice helping to design the future landscape of the Computershare tech landscape.
+    
+    Within Origo, my key responsibilities included: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
 experiences:
   - role: Technical Lead / Solution Architect
     company: Microlise
     time: March 2022 - Current
     details: |
-      Technical Lead / Solution Architect within Microlise, during my time with Microlise I have formed a new team within the IPT, as well as playing a role in the Driver Distraction Safe Camera System, as well as the ClearVision system. 
+      Technical Lead / Solution Architect within Microlise, during my time with Microlise I have formed a new team within the IPT, as well as playing a role in the Driver Distraction/Safe Camera System, as well as the ClearVision system. 
   - role: Senior Developer
     company: Origo
     time: May 2021 - March 2022
