@@ -3,19 +3,19 @@
     "quadrants": [
         {
             "id": "1",
-            "name": "Bottom right"
+            "name": "Languages & Frameworks"
         },
         {
             "id": "2",
-            "name": "Bottom left"
+            "name": "Platforms"
         },
         {
             "id": "3",
-            "name": "Top left"
+            "name": "Tools"
         },
         {
             "id": "4",
-            "name": "Top right"
+            "name": "Techniques"
         }
     ],
     "rings": [
@@ -42,23 +42,17 @@
     ],
     "entries": [
         {
-            "id": "typescript",
-            "title": "Typescript",
-            "description": "Long description for Typescript",
+            "id": "python",
+            "title": "Python",
+            "description": "Python 3.11.1",
             "key": "typescript",
             "url": "#",
             "quadrant": "1",
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "trial",
-                    "date": "2022-02-06",
-                    "description": "Long description for trial"
-                },
-                {
-                    "moved": 1,
                     "ringId": "adopt",
-                    "date": "2022-02-08",
+                    "date": "2023-06-01",
                     "description": "Long description for adopt"
                 }
             ]
