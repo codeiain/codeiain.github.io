@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: WebSite
 metadata:
-  name: codeiain.github.io
+  name: codeiain_github_io
   annotations:
     github.com/project-slug: codeiain/codeiain.github.io
 spec:
