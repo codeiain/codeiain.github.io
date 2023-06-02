@@ -1,237 +1,365 @@
 {
-    "title": "Title of your Tech radar",
-    "quadrants": [
+  "title": "Title of your Tech radar",
+  "quadrants": [
+    {
+      "id": "1",
+      "name": "Languages & Frameworks"
+    },
+    {
+      "id": "2",
+      "name": "Platforms"
+    },
+    {
+      "id": "3",
+      "name": "Tools"
+    },
+    {
+      "id": "4",
+      "name": "Techniques"
+    }
+  ],
+  "rings": [
+    {
+      "id": "adopt",
+      "name": "ADOPT",
+      "color": "#93c47d"
+    },
+    {
+      "id": "trial",
+      "name": "TRIAL",
+      "color": "#93d2c2"
+    },
+    {
+      "id": "assess",
+      "name": "ASSESS",
+      "color": "#fbdb84"
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
+      "color": "#efafa9"
+    }
+  ],
+  "entries": [
+    {
+      "id": "python",
+      "title": "Python",
+      "description": "Python 3.11.1",
+      "key": "typescript",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
         {
-            "id": "1",
-            "name": "Languages & Frameworks"
-        },
-        {
-            "id": "2",
-            "name": "Platforms"
-        },
-        {
-            "id": "3",
-            "name": "Tools"
-        },
-        {
-            "id": "4",
-            "name": "Techniques"
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
         }
-    ],
-    "rings": [
+      ]
+    },
+    {
+      "id": "flask",
+      "title": "Flask",
+      "description": "Flask 2.3.2",
+      "key": "flask",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
         {
-            "id": "adopt",
-            "name": "ADOPT",
-            "color": "#93c47d"
-        },
-        {
-            "id": "trial",
-            "name": "TRIAL",
-            "color": "#93d2c2"
-        },
-        {
-            "id": "assess",
-            "name": "ASSESS",
-            "color": "#fbdb84"
-        },
-        {
-            "id": "hold",
-            "name": "HOLD",
-            "color": "#efafa9"
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
         }
-    ],
-    "entries": [
+      ]
+    },
+    {
+      "id": "flask_cors",
+      "title": "flask_cors",
+      "description": "flask_cors 3.0.10",
+      "key": "flask_cors",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
         {
-            "id": "python",
-            "title": "Python",
-            "description": "Python 3.11.1",
-            "key": "typescript",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "flask",
-            "title": "Flask",
-            "description": "Flask 2.3.2",
-            "key": "flask",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "flask_cors",
-            "title": "flask_cors",
-            "description": "flask_cors 3.0.10",
-            "key": "flask_cors",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "flask_socketio",
-            "title": "flask_socketio",
-            "description": "flask_socketio 5.3.4",
-            "key": "flask_socketio",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "openai",
-            "title": "openai",
-            "description": "openai 0.27.7",
-            "key": "openai",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "prometheus_client",
-            "title": "prometheus_client",
-            "description": "prometheus_client 0.16.0",
-            "key": "prometheus_client",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "python-dotenv",
-            "title": "python-dotenv",
-            "description": "python-dotenv 1.0.0",
-            "key": "python-dotenv",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "pyyaml",
-            "title": "PyYAML",
-            "description": "pyyaml 1.0.0",
-            "key": "pyyaml",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "spacy",
-            "title": "spacy",
-            "description": "spacy 3.5.3",
-            "key": "spacy",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "couchbase",
-            "title": "couchbase",
-            "description": "couchbase 4.1.4",
-            "key": "couchbase",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "fastapi",
-            "title": "fastapi",
-            "description": "fastapi 0.95.2",
-            "key": "fastapi",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
-        },
-        {
-            "id": "starlette_prometheus",
-            "title": "starlette_prometheus",
-            "description": "starlette_prometheus 0.9.0",
-            "key": "starlette_prometheus",
-            "url": "#",
-            "quadrant": "1",
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "adopt",
-                    "date": "2023-06-01",
-                    "description": "Long description for adopt"
-                }
-            ]
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
         }
-    ]
+      ]
+    },
+    {
+      "id": "flask_socketio",
+      "title": "flask_socketio",
+      "description": "flask_socketio 5.3.4",
+      "key": "flask_socketio",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "openai",
+      "title": "openai",
+      "description": "openai 0.27.7",
+      "key": "openai",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "prometheus_client",
+      "title": "prometheus_client",
+      "description": "prometheus_client 0.16.0",
+      "key": "prometheus_client",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "python-dotenv",
+      "title": "python-dotenv",
+      "description": "python-dotenv 1.0.0",
+      "key": "python-dotenv",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "pyyaml",
+      "title": "PyYAML",
+      "description": "pyyaml 1.0.0",
+      "key": "pyyaml",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "spacy",
+      "title": "spacy",
+      "description": "spacy 3.5.3",
+      "key": "spacy",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "couchbase",
+      "title": "couchbase",
+      "description": "couchbase 4.1.4",
+      "key": "couchbase",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "fastapi",
+      "title": "fastapi",
+      "description": "fastapi 0.95.2",
+      "key": "fastapi",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "starlette_prometheus",
+      "title": "starlette_prometheus",
+      "description": "starlette_prometheus 0.9.0",
+      "key": "starlette_prometheus",
+      "url": "#",
+      "quadrant": "1",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "alertmanager",
+      "title": "alertmanager",
+      "description": "alertmanager",
+      "key": "alertmanager",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "sonarcouldexporter",
+      "title": "sonarcouldexporter",
+      "description": "sonarcouldexporter",
+      "key": "sonarcouldexporter",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "couchbase",
+      "title": "couchbase",
+      "description": "couchbase",
+      "key": "couchbase",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "redisexporter",
+      "title": "redisexporter",
+      "description": "redisexporter",
+      "key": "redisexporter",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "redis",
+      "title": "redis",
+      "description": "redis",
+      "key": "redis",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "prometheus",
+      "title": "prometheus",
+      "description": "prometheus",
+      "key": "prometheus",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "cadvisor",
+      "title": "cadvisor",
+      "description": "cadvisor",
+      "key": "cadvisor",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    },
+    {
+      "id": "grafana",
+      "title": "grafana",
+      "description": "grafana",
+      "key": "grafana",
+      "url": "#",
+      "quadrant": "2",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2023-06-01",
+          "description": "Long description for adopt"
+        }
+      ]
+    }
+  ]
 }
