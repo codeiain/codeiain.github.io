@@ -2,9 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: cv
+  description: My Cv site
   annotations:
     github.com/project-slug: codeiain/codeiain.github.io
 spec:
-  type: other
-  lifecycle: unknown
-  owner: Me
+  type: website
+  lifecycle: production
+  owner: Iain
