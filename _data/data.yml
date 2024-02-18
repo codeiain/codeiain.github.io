@@ -49,9 +49,15 @@ career-profile:
     
     Within Origo, my key responsibilities included: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
 experiences:
+  - role: Software Engineering Manager
+    compant: Microlise
+    time: April 2023 - Current
+    details: |
+      Software Engineering Manages.
+
   - role: Technical Lead / Solution Architect
     company: Microlise
-    time: March 2022 - Current
+    time: March 2022 - April 2023
     details: |
       Technical Lead / Solution Architect within Microlise, during my time with Microlise I have formed a new team within the IPT, as well as playing a role in the Driver Distraction/Safe Camera System, as well as the ClearVision system. 
   - role: Senior Developer
@@ -177,6 +183,12 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+    - name: Lean Software
+      
+    - name: Extreme Ownership
+    
+    - name: Theory Of Constraints (TOC)
+ 
     - name: C#
       level: 98%
 
