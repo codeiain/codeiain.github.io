@@ -155,6 +155,9 @@ certificates:
   intro: |
     Below is some of my certificates.
   certs:
+    - title: "Mental Health Champion"
+      image: "assets/certificates/certificate-6.pdf"
+  
     - title: "eXtreme Automation"
       image: "assets/certificates/certificate-1.jpg"
 
