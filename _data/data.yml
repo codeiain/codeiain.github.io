@@ -50,7 +50,7 @@ career-profile:
     Within Origo, my key responsibilities included: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
 experiences:
   - role: Software Engineering Manager
-    compant: Microlise
+    company: Microlise
     time: April 2023 - Current
     details: |
       Software Engineering Manages.
@@ -184,11 +184,14 @@ skills:
 
   toolset:
     - name: Lean Software
+      level: 99% 
       
     - name: Extreme Ownership
+      level: 99%
     
     - name: Theory Of Constraints (TOC)
- 
+      level: 99%
+
     - name: C#
       level: 98%
 
