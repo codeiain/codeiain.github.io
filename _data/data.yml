@@ -33,28 +33,29 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I currently hold the position of Technical Lead / Solution Architect within Microlise, working within Team Initialised within the HUMs IPT. Since I started, I help reform Team Null into Team Initialised, as well as guided the development of the new Driver Distraction/Safe Camera System as well as ClearVision and DPM. As well as working with the team I have also been active within the TLSA community, and multiple communities of practices.
+    I currently hold the position of Software Engineering Manager within Microlise, working with five high-performing software engineering teams across the IPT. As well as line management of the teams, I actively manage the technical health of the IPT to achieve the companies OKRs and drive the company forward
     
-    I started my software career as a game’s tester for Rockstar North on GTA4, this gave me a good understanding of testing large-scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline-based company called Cooper Software. Due to the fact I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge, and as Cooper Software is a .NET company, I was assigned this project.
+    I started my software career as a game’s tester for Rockstar North on GTA4, this gave me a good understanding of testing large-scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline-based company called Cooper Software. As I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge, and as Cooper Software is a .NET company, I was assigned this project.
 
     This kindled a love for developing software, so I learned VB.Net the preferred choice of programming language for Cooper Software. After working as a developer for Cooper Software for over 3 years on multiple projects, including IFS integrations and bespoke windows and web-based applications, I decided it was time for a developmental move.
 
     In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. This was a great introduction to how digital agency work and due to the nature of Open Platform, I was quickly pulled on to other projects including creating a fully bespoke game for Maersk Oil, and multiple projects from Acer at the 2012 London Olympics.
 
-    Open Platform merged with Swarm Online an award-winning development company based in Glasgow. My time with Swarm Online has helped increase my knowledge of front-end frameworks including, AngularJS, React Native also server-side technologies.
+    Open Platform merged with Swarm Online an award-winning development company based in Glasgow. My time with Swarm Online helped increase my knowledge of front-end frameworks including, AngularJS, React Native also server-side technologies.
 
-    Working with GBG plc has allowed me to expand into other languages, and technology e.g Angular front-end applications and C# based web APIs, also due to the nature of GBG I was involved in developing and designing microservices to replace our current applications.
+    Working with GBG plc allowed me to expand into other languages, and technology e.g Angular front-end applications and C# based web APIs, also due to the structure of GBG I was involved in developing and designing microservices to replace the current applications.
 
-    Computershare has allowed me to expand my abilities in mentoring other developers which have helped refine my people management skills, as well as working on multiple projects within Global development, and being actively involved in the Dev Practice helping to design the future landscape of the Computershare tech landscape.
+    Computershare allowed me to expand my abilities in mentoring other developers which has helped refine my people management skills. I worked on multiple projects within Global development, being actively involved in the Dev Practice and helping to design the future landscape of the Computershare tech landscape.
     
     Within Origo, my key responsibilities included: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
+    
+    As Technical Lead / Solution Architect within Microlise, working within Team Initialised guiding the development of the new Driver Distraction/Safe Camera System as well as ClearVision and Drive Performance System. In addition to working with the team I have also been active within the TLSA community, and multiple communities of practices.
 experiences:
   - role: Software Engineering Manager
     company: Microlise
     time: April 2023 - Current
     details: |
-      Software Engineering Manager at Microlise, with a proven track record of leading five high-performing teams across the Integrated Product Team (IPT). Expert in Lean Development, Extreme Ownership, and Theory of Constraints, optimising workflows, fostering accountability, and identifying bottlenecks to enhanc team efficiency. Proven success in executing Agile projects, adapting to change, and driving continuous improvement.
-      Collaboration is a prioritym evident through effective communication channels with developmet teams, stakeholders, and other departments. Working closely with the Senior Leadership Team (SLT_ to align stategies with Objective and Key Results to ensure company success.
+      Software Engineering Manager at Microlise, with a proven track record of leading five high-performing teams across the Integrated Product Team (IPT). Expert in Lean Development, Extreme Ownership, and Theory of Constraints, optimising workflows, fostering accountability, and identifying bottlenecks to enhanc team efficiency. Proven success in executing Agile projects, adapting to change, and driving continuous improvement. Collaboration is a prioritym evident through effective communication channels with development teams, stakeholders, and other departments. Working closely with the Senior Leadership Team (SLT) to align stategies with Objective and Key Results to ensure company success.
 
   - role: Technical Lead / Solution Architect
     company: Microlise
@@ -65,14 +66,13 @@ experiences:
     company: Origo
     time: May 2021 - March 2022
     details: |
-      Senior Developer within Origo, help in the relocate and modernization of application portfolio.
+      Senior Developer within Origo, help in the relocate and modernization of application portfolio. 
       As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Development teams.
   - role: Senior ASP.Net Developer
     company: Computershare
     time: Novemeber 2019 - May 2021
     details: |
-      Senior ASP.Net Developer within Computershare, help in the relocate and modernization of application portfolio.
-      My role within Computershare was to help transfer application from Microsoft Team Foundation Server to Azure Dev Ops. As well as implanting security fixes within existing applications.
+      Senior ASP.Net Developer within Computershare, help in the relocate and modernization of application portfolio. My role within Computershare was to help transfer application from Microsoft Team Foundation Server to Azure Dev Ops. As well as implanting security fixes within existing applications. 
       As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Global Development.
   - role: Senior Software Developer
     company: GBG PLC
