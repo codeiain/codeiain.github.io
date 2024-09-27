@@ -162,6 +162,9 @@ certificates:
   intro: |
     Below is some of my certificates.
   certs:
+    - title: "In Professional Development - Leadership and Management Course - CMI Level 5"
+      image: "assets/certificates/credential.pdf"
+      
     - title: "Mental Health Champion"
       image: "assets/certificates/certificate-6.pdf"
   
