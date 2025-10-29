@@ -33,129 +33,117 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I currently hold the position of Software Engineering Manager within Microlise, working with five high-performing software engineering teams across the IPT. As well as line management of the teams, I actively manage the technical health of the IPT to achieve the companies OKRs and drive the company forward
+    I currently hold the position of Engineering Manager within Forrit, managing multiple engineering teams across product delivery, DevOps, and platform operations. 
+    My primary focus is helping the company transition from a start-up to a scale-up by introducing DevOps practices, engineering standardisation, and scalable delivery frameworks. 
+    I work closely with leadership to align engineering strategy with business goals and drive process automation and efficiency improvements.
+
+    Prior to this, I was Software Engineering Manager at Microlise, working with five high-performing software engineering teams within the Integrated Product Team (IPT). 
+    As well as line management of the teams, I actively managed the technical health of the IPT to achieve the company's OKRs and drive continuous improvement.
+
+    I started my software career as a game’s tester for Rockstar North on GTA4, this gave me a good understanding of testing large-scale multi-player games, 
+    I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline-based company called Cooper Software. 
+    As I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge, and as Cooper Software is a .NET company, I was assigned this project.
+
+    This kindled a love for developing software, so I learned VB.Net -- the preferred programming language for Cooper Software. 
+    After working as a developer for over three years on multiple projects, including IFS integrations and bespoke web applications, I decided it was time for a developmental move.
+
+    In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. 
+    This was a great introduction to how digital agencies operate, and due to the nature of Open Platform, I was quickly pulled onto other projects including creating a fully bespoke game for Maersk Oil, 
+    and multiple projects for Acer at the 2012 London Olympics.
+
+    Open Platform merged with Swarm Online, an award-winning development company based in Glasgow. 
+    My time with Swarm Online helped increase my knowledge of front-end frameworks including AngularJS and React Native, as well as server-side technologies.
+
+    Working with GBG plc allowed me to expand into other languages and technologies such as Angular front-end applications and C#-based web APIs. 
+    I was also involved in developing and designing microservices to replace legacy applications.
+
+    Computershare allowed me to expand my abilities in mentoring other developers, refining my people management skills. 
+    I worked on multiple projects within Global Development, actively contributing to the Dev Practice and helping design the future of the company’s technology landscape.
     
-    I started my software career as a game’s tester for Rockstar North on GTA4, this gave me a good understanding of testing large-scale multi-player games, I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline-based company called Cooper Software. As I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge, and as Cooper Software is a .NET company, I was assigned this project.
-
-    This kindled a love for developing software, so I learned VB.Net the preferred choice of programming language for Cooper Software. After working as a developer for Cooper Software for over 3 years on multiple projects, including IFS integrations and bespoke windows and web-based applications, I decided it was time for a developmental move.
-
-    In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. This was a great introduction to how digital agency work and due to the nature of Open Platform, I was quickly pulled on to other projects including creating a fully bespoke game for Maersk Oil, and multiple projects from Acer at the 2012 London Olympics.
-
-    Open Platform merged with Swarm Online an award-winning development company based in Glasgow. My time with Swarm Online helped increase my knowledge of front-end frameworks including, AngularJS, React Native also server-side technologies.
-
-    Working with GBG plc allowed me to expand into other languages, and technology e.g Angular front-end applications and C# based web APIs, also due to the structure of GBG I was involved in developing and designing microservices to replace the current applications.
-
-    Computershare allowed me to expand my abilities in mentoring other developers which has helped refine my people management skills. I worked on multiple projects within Global development, being actively involved in the Dev Practice and helping to design the future landscape of the Computershare tech landscape.
+    Within Origo, my key responsibilities included migration to Azure DevOps for build and ticketing, mentoring junior developers, and promoting best practices throughout the development lifecycle.
     
-    Within Origo, my key responsibilities included: migration to Azure DevOps for building and ticketing, as well as mentoring junior developers, and promoting the best practices within the development life cycle.
-    
-    As Technical Lead / Solution Architect within Microlise, working within Team Initialised guiding the development of the new Driver Distraction/Safe Camera System as well as ClearVision and Drive Performance System. In addition to working with the team I have also been active within the TLSA community, and multiple communities of practices.
+    As Technical Lead / Solution Architect within Microlise, I guided the development of the Driver Distraction/Safe Camera System, ClearVision, and Drive Performance System, 
+    as well as being an active member of the TLSA community and multiple Communities of Practice.
+
 experiences:
+  - role: Engineering Manager
+    company: Forrit
+    time: November 2024 - Present
+    details: |
+      Managing multiple engineering teams across product delivery, DevOps, and platform operations. 
+      Responsible for guiding the company’s transition from a start-up to a scale-up through the implementation of DevOps practices, 
+      engineering standardisation, and scalable delivery frameworks. 
+      Working closely with leadership to align engineering strategy with business objectives, and driving improvements through automation and process refinement.
+
   - role: Software Engineering Manager
     company: Microlise
     time: April 2023 - November 2024
     details: |
-      Software Engineering Manager at Microlise, with a proven track record of leading five high-performing teams across the Integrated Product Team (IPT). Expert in Lean Development, Extreme Ownership, and Theory of Constraints, optimising workflows, fostering accountability, and identifying bottlenecks to enhanc team efficiency. Proven success in executing Agile projects, adapting to change, and driving continuous improvement. Collaboration is a prioritym evident through effective communication channels with development teams, stakeholders, and other departments. Working closely with the Senior Leadership Team (SLT) to align stategies with Objective and Key Results to ensure company success.
+      Software Engineering Manager at Microlise, with a proven track record of leading five high-performing teams across the Integrated Product Team (IPT). 
+      Expert in Lean Development, Extreme Ownership, and Theory of Constraints, optimising workflows, fostering accountability, and identifying bottlenecks to enhance team efficiency. 
+      Proven success in executing Agile projects, adapting to change, and driving continuous improvement. 
+      Collaboration is a priority, evident through effective communication channels with development teams, stakeholders, and other departments. 
+      Worked closely with the Senior Leadership Team (SLT) to align strategies with company OKRs and ensure organisational success.
 
   - role: Technical Lead / Solution Architect
     company: Microlise
     time: March 2022 - April 2023
     details: |
-      Technical Lead / Solution Architect within Microlise, during my time with Microlise I have formed a new team within the IPT, as well as playing a role in the Driver Distraction/Safe Camera System, as well as the ClearVision system. 
+      Technical Lead / Solution Architect within Microlise, responsible for forming a new team within the IPT, 
+      and leading development of the Driver Distraction/Safe Camera System and ClearVision system. 
+      Supported cross-team collaboration and provided architectural oversight across multiple projects.
+
   - role: Senior Developer
     company: Origo
     time: May 2021 - March 2022
     details: |
-      Senior Developer within Origo, help in the relocate and modernization of application portfolio. 
-      As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Development teams.
+      Senior Developer at Origo, helping modernise the company’s application portfolio and migrate to Azure DevOps for build and ticketing systems. 
+      Actively involved in mentoring junior developers and promoting best practices within the development lifecycle.
+
   - role: Senior ASP.Net Developer
     company: Computershare
-    time: Novemeber 2019 - May 2021
+    time: November 2019 - May 2021
     details: |
-      Senior ASP.Net Developer within Computershare, help in the relocate and modernization of application portfolio. My role within Computershare was to help transfer application from Microsoft Team Foundation Server to Azure Dev Ops. As well as implanting security fixes within existing applications. 
-      As a Senior Developer part of my role was to engage with the Development Practice and help promote knowledge sharing with in Global Development.
+      Senior ASP.Net Developer within Computershare, assisting in the relocation and modernisation of the application portfolio. 
+      Helped migrate applications from Microsoft Team Foundation Server to Azure DevOps and implemented security updates within existing systems. 
+      Actively involved in Global Development’s Dev Practice, promoting knowledge sharing across teams.
+
   - role: Senior Software Developer
     company: GBG PLC
     time: October 2016 - November 2019
     details: |
-      Senior ASP.Net Developer within GBG plc and work on multiple projects for some big-name clients including Ikea and Thomas Cook, GovUK.
-      GBG plc are global leaders in identity data intelligence.
-      Since moving to GBG I have exposure to working in large global teams, and processes and procedures that help increase the development process.
-      My role while mainly includes development, it also includes:
-        - Managing the team of developers for my current project.
-        - Constantly improving of the company’s continuous integration systems.
-        - Mentoring other developers in .Net and JavaScript.
+      Senior ASP.Net Developer at GBG plc, working on multiple projects for major clients including IKEA, Thomas Cook, and GovUK. 
+      Managed teams, improved continuous integration systems, and mentored developers in .NET and JavaScript within a global engineering environment.
+
   - role: Senior Software Developer
     company: Swarm Online
     time: December 2015 - October 2016
     details: |
-      Swarm Online are world leaders and recognised industry experts in mobile and web technologies. Based in the heart of Glasgow’s Digital Media Quarter, they use cutting edge technology to build solutions that disrupt markets and deliver results. They operate and consult for a diverse range of industries including Utilities, Oil & Gas, Health & Wellness and many others. Their solutions have improved user engagement, increased revenue and enabled thousands of workers to carry out their jobs effectively across our growing client list.
-      Since moving to Swarm Online in the start of 2016 I have worked on multiple projects for large customers including Clydesdale Bank, E.on, Shell.
+      Worked on multiple large-scale projects for clients such as Clydesdale Bank, E.ON, and Shell, 
+      leveraging cutting-edge web and mobile technologies. 
+      Contributed to improving processes and development practices across teams.
+
   - role: Senior Software Developer
     company: Open Platform
     time: February 2012 - December 2015
     details: |
-      Open Platform offers a focused range of digital services, from design and development to strategy and implementation.
-      Since Starting with Open Platform in 2012, I have worked my way up from Software Developer to Senior Web Application Developer, in charge of the .Net Team.
-      During my time with Open Platform I have been a Key member on a number of different types of projects including an event management tool for Shell Oil and Maersk, stock ordering systems and games.
-      I have also been actively involved in helping define the company’s procedures and standardising the company’s development processes.
-      My favourite project with Open Platform was a bespoke Game using the XNA framework for the game system and custom hardware that I designed to control the game using arduino development boards, this game is proving to be very popular at events and exhibitions for Maersk and is currently being run all over the world.
+      Progressed from Software Developer to Senior Web Application Developer, leading the .NET team. 
+      Delivered a range of digital solutions including games, event management tools, and stock ordering systems. 
+      Helped define company procedures and standardise development processes.
+
   - role: Developer
     company: Cooper Software
     time: September 2008 - February 2012
     details: |
-      Cooper Software is a system integration specialist, with expertise in integration, customisation and optimisation and larger scale Enterprise Resource Planning (ERP) Systems.
-      I worked as VB.Net developer at Cooper Software for 3 years, specialising in Bespoke Window/Web Form and Custom Modifications for IFS.
-      When not working on internal and external client projects, my main role was to develop tools to increase the company’s performance. I worked on an application called the Rapid Solution Delivery System a tool designed to automatically generate standardised code. This system has proved invaluable to the company in that it standardises code base through automatically generating base code used in projects and as such reduces the time required to develop.
+      VB.Net Developer specialising in bespoke web and Windows applications and custom modifications for IFS. 
+      Developed internal tools such as the Rapid Solution Delivery System to automate and standardise code generation.
+
   - role: QA Tester
-    company: Rock Star North
+    company: Rockstar North
     time: January 2008 - April 2008
     details: |
-      Award-Winning Video Game Developer Based In Edinburgh, Scotland.
-      Part of the Rockstar Games family since 1999, Rockstar North is home to the ground-breaking Grand Theft Auto Series. Ambition and hard work have made Rockstar North a preeminent games developer worldwide, and at the heart of it all is a team of motivated individuals who strive to produce amazing, industry-leading games.
-# projects:
-#     title: Projects
-#     intro: >
-#       Below is some of my none work related projects.
-#     assignments:
-#       - title: Text Adventure Platform
-#         link: "https://github.com/codeiain/TextAdventure"
-#         tagline: "Text Adventure Platform is an experiment in gRPC, The Platform is designed to allow people to play old school text adventure games, with their friends. This is still a work in progress."
-
-#       - title: CIStringBuilder
-#         link: "https://github.com/codeiain/CIStringBuilder"
-#         tagline: "Node.js string builder based on c#"
-
-#       - title: piAPI
-#         link: "https://github.com/codeiain/piAPI"
-#         tagline: "Basic Node.js web api to get cpu usage, memory and temp from my RaspberryPI"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# publications:
-#     title: Certificates
-#     intro: |
-
-#     papers:
-#       - title: Angular Crud done correctly (Very much a WIP)
-#         link: "https://codeiain.gitbook.io/angular-crud/"
-#         authors: Iain Brown
-
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+      Part of the QA team on Grand Theft Auto IV, testing large-scale multiplayer systems and gameplay mechanics. 
+      Gained early insight into quality assurance and the importance of structured testing in high-performance software environments.
 
 certificates:
   title: Certificates
@@ -164,62 +152,44 @@ certificates:
   certs:
     - title: "In Professional Development - Leadership and Management Course - CMI Level 5"
       image: "assets/certificates/credential.pdf"
-      
     - title: "Mental Health Champion"
       image: "assets/certificates/certificate-6.pdf"
-  
     - title: "eXtreme Automation"
       image: "assets/certificates/certificate-1.jpg"
-
     - title: "A Cloud Guru - DevOps Essentials"
       image: "assets/certificates/certificate-2.png"
-
     - title: "A Cloud Guru - Introduction to Machine Learning"
       image: "assets/certificates/certificate-4.png"
-    
     - title: "A Cloud Guru - Introduction to Jupyter Notebooks"
       image: "assets/certificates/certificate-3.png"
-
     - title: "A Cloud Guru - Ansible Quick Start"
       image: "assets/certificates/certificate-5.png"
 
 skills:
   title: Skills &amp; Proficiency
-
   toolset:
     - name: Lean Software
-      level: 99% 
-      
+      level: 99%
     - name: Extreme Ownership
       level: 99%
-    
     - name: Theory Of Constraints (TOC)
       level: 99%
-
     - name: C#
       level: 98%
-
     - name: Javascript & jQuery
       level: 98%
-
     - name: Angular
       level: 98%
-
     - name: Node.Js
       level: 80%
-
     - name: MVC
       level: 90%
-
     - name: ASP.Net
       level: 90%
-
     - name: MS SQL
       level: 75%
-
     - name: Angular
       level: 95%
-
     - name: .Net Core
       level: 90%
   tools:
@@ -231,5 +201,3 @@ skills:
     - name: Svn
     - name: Office 365
     - name: Azure Dev Ops
-    - name: Docker
-    - name: Ansible
