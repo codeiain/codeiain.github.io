@@ -33,94 +33,77 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I currently hold the position of Engineering Manager within Forrit, managing multiple engineering teams across product delivery, DevOps, and platform operations. 
-    My primary focus is helping the company transition from a start-up to a scale-up by introducing DevOps practices, engineering standardisation, and scalable delivery frameworks. 
-    I work closely with leadership to align engineering strategy with business goals and drive process automation and efficiency improvements.
+    I am a Software Engineering Manager focused on building high-performing, empowered engineering teams. 
+    My approach balances autonomy with structure, strengthening processes without creating unnecessary friction, 
+    enabling teams to deliver efficiently and innovate consistently.
 
-    Prior to this, I was Software Engineering Manager at Microlise, working with five high-performing software engineering teams within the Integrated Product Team (IPT). 
-    As well as line management of the teams, I actively managed the technical health of the IPT to achieve the company's OKRs and drive continuous improvement.
+    Currently, I serve as Software Engineering Manager at Forrit, overseeing multiple teams across product delivery, 
+    DevOps, and platform engineering. I focus on guiding the company from start-up to scale-up by introducing standardised 
+    workflows, implementing DevOps practices, and embedding scalable delivery frameworks. I work closely with leadership 
+    to align engineering strategy with business objectives, streamline processes, and drive sustainable improvements.
 
-    I started my software career as a game’s tester for Rockstar North on GTA4, this gave me a good understanding of testing large-scale multi-player games, 
-    I subsequently decided that I needed to expand my skills and made the move to software testing for a small Dunfermline-based company called Cooper Software. 
-    As I was skilled in PHP, I was moved from testing to a project that required some PHP knowledge, and as Cooper Software is a .NET company, I was assigned this project.
+    Previously, I was Software Engineering Manager at Microlise, leading several development teams within the Integrated 
+    Product Team (IPT). I managed 5–7 person teams delivering telematics and logistics software, focusing on technical 
+    quality, delivery consistency, and cross-team collaboration. My work strengthened engineering alignment and supported 
+    the company’s digital transformation goals.
 
-    This kindled a love for developing software, so I learned VB.Net -- the preferred programming language for Cooper Software. 
-    After working as a developer for over three years on multiple projects, including IFS integrations and bespoke web applications, I decided it was time for a developmental move.
-
-    In 2012 I moved to a digital agency called Open Platform as a C# developer, working on their main product. 
-    This was a great introduction to how digital agencies operate, and due to the nature of Open Platform, I was quickly pulled onto other projects including creating a fully bespoke game for Maersk Oil, 
-    and multiple projects for Acer at the 2012 London Olympics.
-
-    Open Platform merged with Swarm Online, an award-winning development company based in Glasgow. 
-    My time with Swarm Online helped increase my knowledge of front-end frameworks including AngularJS and React Native, as well as server-side technologies.
-
-    Working with GBG plc allowed me to expand into other languages and technologies such as Angular front-end applications and C#-based web APIs. 
-    I was also involved in developing and designing microservices to replace legacy applications.
-
-    Computershare allowed me to expand my abilities in mentoring other developers, refining my people management skills. 
-    I worked on multiple projects within Global Development, actively contributing to the Dev Practice and helping design the future of the company’s technology landscape.
-    
-    Within Origo, my key responsibilities included migration to Azure DevOps for build and ticketing, mentoring junior developers, and promoting best practices throughout the development lifecycle.
-    
-    As Technical Lead / Solution Architect within Microlise, I guided the development of the Driver Distraction/Safe Camera System, ClearVision, and Drive Performance System, 
-    as well as being an active member of the TLSA community and multiple Communities of Practice.
+    My earlier career spans technical leadership and hands-on development across agencies and enterprise systems. 
+    I began as a QA tester at Rockstar North before moving into software development, progressing to senior engineer 
+    and eventually into leadership roles, giving me a comprehensive understanding of the full development lifecycle.
 
 experiences:
-  - role: Engineering Manager
+  - role: Software Engineering Manager
     company: Forrit
     time: November 2024 - Present
     details: |
-      Managing multiple engineering teams across product delivery, DevOps, and platform operations. 
-      Responsible for guiding the company’s transition from a start-up to a scale-up through the implementation of DevOps practices, 
-      engineering standardisation, and scalable delivery frameworks. 
-      Working closely with leadership to align engineering strategy with business objectives, and driving improvements through automation and process refinement.
+      Overseeing multiple engineering teams across product delivery, DevOps, and platform operations. 
+      Driving the company’s transition from start-up to scale-up through standardised workflows, 
+      DevOps practices, and scalable delivery frameworks. 
+      Collaborating with leadership to align engineering strategy with business objectives, 
+      streamline processes, and improve delivery efficiency.
 
-  - role: Software Engineering Manager
+  - role: Software Engineering Manager – Integrated Product Team (IPT)
     company: Microlise
     time: April 2023 - November 2024
     details: |
-      Software Engineering Manager at Microlise, with a proven track record of leading five high-performing teams across the Integrated Product Team (IPT). 
-      Expert in Lean Development, Extreme Ownership, and Theory of Constraints, optimising workflows, fostering accountability, and identifying bottlenecks to enhance team efficiency. 
-      Proven success in executing Agile projects, adapting to change, and driving continuous improvement. 
-      Collaboration is a priority, evident through effective communication channels with development teams, stakeholders, and other departments. 
-      Worked closely with the Senior Leadership Team (SLT) to align strategies with company OKRs and ensure organisational success.
+      Led multiple development teams within the Integrated Product Team (IPT), managing 5–7 person teams delivering 
+      telematics and logistics software. Focused on technical quality, consistent delivery, and cross-team collaboration. 
+      Strengthened engineering alignment and supported digital transformation initiatives by embedding structured processes 
+      and improving delivery predictability.
 
   - role: Technical Lead / Solution Architect
     company: Microlise
     time: March 2022 - April 2023
     details: |
-      Technical Lead / Solution Architect within Microlise, responsible for forming a new team within the IPT, 
-      and leading development of the Driver Distraction/Safe Camera System and ClearVision system. 
-      Supported cross-team collaboration and provided architectural oversight across multiple projects.
+      Formed a new team within the IPT and led development of the Driver Distraction/Safe Camera System and ClearVision system. 
+      Provided architectural guidance, supported cross-team collaboration, and ensured technical standards across projects.
 
   - role: Senior Developer
     company: Origo
     time: May 2021 - March 2022
     details: |
-      Senior Developer at Origo, helping modernise the company’s application portfolio and migrate to Azure DevOps for build and ticketing systems. 
-      Actively involved in mentoring junior developers and promoting best practices within the development lifecycle.
+      Assisted with modernising Origo’s application portfolio and migrating to Azure DevOps. 
+      Mentored junior developers and promoted best practices within the development lifecycle.
 
   - role: Senior ASP.Net Developer
     company: Computershare
     time: November 2019 - May 2021
     details: |
-      Senior ASP.Net Developer within Computershare, assisting in the relocation and modernisation of the application portfolio. 
-      Helped migrate applications from Microsoft Team Foundation Server to Azure DevOps and implemented security updates within existing systems. 
-      Actively involved in Global Development’s Dev Practice, promoting knowledge sharing across teams.
+      Helped relocate and modernise the application portfolio, migrating systems to Azure DevOps and implementing security updates. 
+      Actively contributed to Global Development’s Dev Practice, sharing knowledge and improving team practices.
 
   - role: Senior Software Developer
     company: GBG PLC
     time: October 2016 - November 2019
     details: |
-      Senior ASP.Net Developer at GBG plc, working on multiple projects for major clients including IKEA, Thomas Cook, and GovUK. 
-      Managed teams, improved continuous integration systems, and mentored developers in .NET and JavaScript within a global engineering environment.
+      Delivered projects for clients including IKEA, Thomas Cook, and GovUK. 
+      Managed development teams, improved CI systems, and mentored developers in .NET and JavaScript within global teams.
 
   - role: Senior Software Developer
     company: Swarm Online
     time: December 2015 - October 2016
     details: |
-      Worked on multiple large-scale projects for clients such as Clydesdale Bank, E.ON, and Shell, 
-      leveraging cutting-edge web and mobile technologies. 
+      Delivered large-scale web and mobile projects for clients such as Clydesdale Bank, E.ON, and Shell. 
       Contributed to improving processes and development practices across teams.
 
   - role: Senior Software Developer
@@ -128,14 +111,14 @@ experiences:
     time: February 2012 - December 2015
     details: |
       Progressed from Software Developer to Senior Web Application Developer, leading the .NET team. 
-      Delivered a range of digital solutions including games, event management tools, and stock ordering systems. 
+      Delivered digital solutions including games, event management tools, and stock ordering systems. 
       Helped define company procedures and standardise development processes.
 
   - role: Developer
     company: Cooper Software
     time: September 2008 - February 2012
     details: |
-      VB.Net Developer specialising in bespoke web and Windows applications and custom modifications for IFS. 
+      VB.Net Developer specialising in bespoke web and Windows applications and IFS custom modifications. 
       Developed internal tools such as the Rapid Solution Delivery System to automate and standardise code generation.
 
   - role: QA Tester
@@ -143,7 +126,7 @@ experiences:
     time: January 2008 - April 2008
     details: |
       Part of the QA team on Grand Theft Auto IV, testing large-scale multiplayer systems and gameplay mechanics. 
-      Gained early insight into quality assurance and the importance of structured testing in high-performance software environments.
+      Gained early experience in structured testing and quality assurance in high-performance software environments.
 
 certificates:
   title: Certificates
