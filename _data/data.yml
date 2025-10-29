@@ -33,11 +33,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a Software Engineering Manager focused on building high-performing, empowered engineering teams. 
+    I am a Engineering Manager focused on building high-performing, empowered engineering teams. 
     My approach balances autonomy with structure, strengthening processes without creating unnecessary friction, 
     enabling teams to deliver efficiently and innovate consistently.
 
-    Currently, I serve as Software Engineering Manager at Forrit, overseeing multiple teams across product delivery, 
+    Currently, I serve as Engineering Manager at Forrit, overseeing multiple teams across product delivery, 
     DevOps, and platform engineering. I focus on guiding the company from start-up to scale-up by introducing standardised 
     workflows, implementing DevOps practices, and embedding scalable delivery frameworks. I work closely with leadership 
     to align engineering strategy with business objectives, streamline processes, and drive sustainable improvements.
@@ -52,7 +52,7 @@ career-profile:
     and eventually into leadership roles, giving me a comprehensive understanding of the full development lifecycle.
 
 experiences:
-  - role: Software Engineering Manager
+  - role: Engineering Manager
     company: Forrit
     time: November 2024 - Present
     details: |
@@ -62,7 +62,7 @@ experiences:
       Collaborating with leadership to align engineering strategy with business objectives, 
       streamline processes, and improve delivery efficiency.
 
-  - role: Software Engineering Manager – Integrated Product Team (IPT)
+  - role: Software Engineering Manager
     company: Microlise
     time: April 2023 - November 2024
     details: |
